@@ -7,4 +7,4 @@
 
     EP 02 - Algoritmo de Tentativa e Erro
 
-**Os Direitos Autorais do matérial aprensentado, propostas dos exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Flávio Luiz Coutinho.**  
+**Os Direitos Autorais do material aprensentado, propostas dos exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Flávio Luiz Coutinho.**  
