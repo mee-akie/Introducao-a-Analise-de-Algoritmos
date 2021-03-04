@@ -1,17 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-/*********************************************************************/
-/**   ACH2002 - Introducao a Analise de Algoritmos                  **/
-/**                                                                 **/
-/**   <turma 94> - Prof. Flavio Luiz Coutinho                       **/
-/**                                                                 **/
-/**   EP1 - Recursividade aplicada a computacao grafica             **/
-/**                                                                 **/
-/**   <Aluna: Melissa Akie Inui>        <N.USP: 11908865>           **/
-/**                                                                 **/
-/*********************************************************************/
-
 // Programa principal
 public class Main {
 
