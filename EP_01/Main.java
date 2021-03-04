@@ -1,6 +1,17 @@
 import java.util.*;
 import java.io.*;
 
+/*********************************************************************/
+/**   ACH2002 - Introducao a Analise de Algoritmos                  **/
+/**                                                                 **/
+/**   <turma 94> - Prof. Flavio Luiz Coutinho                       **/
+/**                                                                 **/
+/**   EP1 - Recursividade aplicada a computacao grafica             **/
+/**                                                                 **/
+/**   <Aluna: Melissa Akie Inui>        <N.USP: 11908865>           **/
+/**                                                                 **/
+/*********************************************************************/
+
 // Programa principal
 public class Main {
 
@@ -13,6 +24,8 @@ public class Main {
         while(scanner.hasNext()){
 
             String command = scanner.next();
+
+            System.out.println("AQUI");
 
             if(command.equals("SET_COLOR")){
 
@@ -64,19 +77,7 @@ public class Main {
                 int Qy = scanner.nextInt();
                 int l = scanner.nextInt();
 
-                if(image.ehValido(Px, Py, image.getHeight(), image.getWidth()) == false){ //coordenada do ponto P invalida
-                    break;
-
-                }
-                if(image.ehValido(Qx, Qy, image.getHeight(), image.getWidth()) == false){ //coordenada do ponto Q invalida
-                    break;
-                }
-                if(l<0){
-                    break;
-                }
-                else {
-                    image.kochCurve(Px, Py, Qx, Qy, l);
-                }
+                image.kochCurve(Px, Py, Qx, Qy, l);
             }
 
             if(command.equals("REGION_FILL")){
