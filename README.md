@@ -3,8 +3,8 @@
 
  Assuntos abordados em cada EP:
 
-    EP 01 - Recursão
+    Curva de Koch e imagens digitais - Recursão
 
-    EP 02 - Algoritmo de Tentativa e Erro
+    Labirinto - Algoritmo de Tentativa e Erro
 
 **Os Direitos Autorais do material aprensentado, propostas dos exercícios programas (EP´s), são dados exclusivamente ao Professor Doutor Flávio Luiz Coutinho.**  
